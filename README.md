@@ -1,5 +1,10 @@
 # Diabetes Prediction System 
 
+## Live Demo
+ Try the Diabetes Prediction System here:
+
+[Click here to Open Live Website](https://diabetes-prediction-ml-6350.onrender.com)
+
 ## Project Overview
 The Diabetes Prediction System is a Machine Learning-based web application that predicts diabetes outcomes based on user-provided health parameters.
 
@@ -66,7 +71,7 @@ python app.py
 
 Visit:
 
-http://127.0.0.1:5000/
+https://diabetes-prediction-ml-6350.onrender.com
 
 Enter the required health measurements and click the Predict Diabetes button.
 
